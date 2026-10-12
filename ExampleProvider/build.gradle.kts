@@ -26,3 +26,4 @@ android {
         viewBinding = true
     }
 }
+
